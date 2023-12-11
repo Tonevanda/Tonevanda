@@ -25,8 +25,9 @@ I like listening to all kinds of music. If you are curious, check out my [Rate Y
 |------------------------|----------|---------------------------------------------|
 | [PFL](https://github.com/Tonevanda/PFL-Crosscut) | Prolog | Abstract board game using SICStus Prolog |
 | [RCOM](https://github.com/Tonevanda/RCOM/tree/main/proj1) | C | File transfer between 2 computers through the serial port |
-| [RCOM](https://github.com/Tonevanda/RCOM/tree/main/proj2) | C | Download of a file using the TCP and FTP protocol|
+| [RCOM](https://github.com/Tonevanda/RCOM/tree/main/proj2) | C | File downloader using the TCP and FTP protocol|
 | [PFL](https://github.com/Tonevanda/PFL-Haskell) | Haskell | Assembly interpreter and compiler using Haskell |
 | [LDTS](https://github.com/Tonevanda/BloonsTD) | Java | Recreation of the first BloonsTD game using Java's Lanterna |
+| [LTW](https://github.com/Tonevanda/Lippu) | PHP, JS, HTML, CSS | Ticketing system website |
 
 </div>
