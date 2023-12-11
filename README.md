@@ -29,5 +29,7 @@ I like listening to all kinds of music. If you are curious, check out my [Rate Y
 | [PFL](https://github.com/Tonevanda/PFL-Haskell) | Haskell | Assembly interpreter and compiler using Haskell |
 | [LDTS](https://github.com/Tonevanda/BloonsTD) | Java | Recreation of the first BloonsTD game using Java's Lanterna |
 | [LTW](https://github.com/Tonevanda/Lippu) | PHP, JS, HTML, CSS | Ticketing system website |
+| [DA](https://github.com/Tonevanda/DA-Railway) | C++ | Optimization of a railway system |
+| [DA](https://github.com/Tonevanda/DA-Shipping) | C++ | Development of heuristics to approximate optimal TSP paths for shipping company |
 
 </div>
