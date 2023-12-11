@@ -32,5 +32,7 @@ I like listening to all kinds of music. If you are curious, check out my [Rate Y
 | [DA](https://github.com/Tonevanda/DA-Railway) | C++ | Optimization of a railway system |
 | [DA](https://github.com/Tonevanda/DA-Shipping) | C++ | Development of heuristics to approximate optimal TSP paths for shipping company |
 | [AED](https://github.com/Tonevanda/AED-Schedules) | C++ | System management for students' schedules |
+| [AED](https://github.com/Tonevanda/AED-Airline) | C++ | System Management for global Airways |
+| [LCOM](https://github.com/Tonevanda/LCOM/tree/main/proj) | C | Battleship game using the MINIX subsystem drivers |
 
 </div>
