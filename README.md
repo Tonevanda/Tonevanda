@@ -31,5 +31,6 @@ I like listening to all kinds of music. If you are curious, check out my [Rate Y
 | [LTW](https://github.com/Tonevanda/Lippu) | PHP, JS, HTML, CSS | Ticketing system website |
 | [DA](https://github.com/Tonevanda/DA-Railway) | C++ | Optimization of a railway system |
 | [DA](https://github.com/Tonevanda/DA-Shipping) | C++ | Development of heuristics to approximate optimal TSP paths for shipping company |
+| [AED](https://github.com/Tonevanda/AED-Schedules) | C++ | System management for students' schedules |
 
 </div>
