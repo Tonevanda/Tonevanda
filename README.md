@@ -33,7 +33,7 @@ I love listening to all kinds of music. If you're curious, check out my [RYM](ht
 | DA     | [RailOptiC](https://github.com/Tonevanda/DA-Railway)      | C++       | Optimization of a railway system                          | 17.33 |
 | SO     | [TokenX](https://github.com/Tonevanda/SO)                 | C         | Multi-process token control with optional synchronization and lock periods | 18.33 |
 | LDTS   | [BloonsTD](https://github.com/Tonevanda/BloonsTD)         | Java      | Recreation of the first BloonsTD game using Java's Lanterna| 16.3  |
-| AED    | [SkyControl](https://github.com/Tonevanda/AED-Airline)    | C++       | System Management for global Airways                      | 16.16 |
-| AED    | [Harmonogram](https://github.com/Tonevanda/AED-Schedules) | C++       | System management for students' schedules                 | 18.38 |
+| AED    | [SkyControl](https://github.com/Tonevanda/AED-Airline)    | C++       | System Management for global airways                      | 16.16 |
+| AED    | [Harmonogram](https://github.com/Tonevanda/AED-Schedules) | C++       | System Management for students' schedules                 | 18.38 |
 
 </div>
