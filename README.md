@@ -23,10 +23,10 @@ I love listening to all kinds of music. If you're curious, check out my [RYM](ht
 
 | Class  | Name                                                      | Language  | Description                                              | Grade |
 |--------|-----------------------------------------------------------|-----------|----------------------------------------------------------|-------|
-| RCOM   | [NetFetch](https://github.com/Tonevanda/RCOM/tree/main/proj2)   | C   | File downloader using the TCP and FTP protocol           | TBA   |
-| PFL    | [HaskellASM](https://github.com/Tonevanda/PFL-Haskell)    | Haskell   | Assembly interpreter and compiler using Haskell          | TBA   |
-| RCOM   | [SerialSync](https://github.com/Tonevanda/RCOM/tree/main/proj1) | C   | File transfer between 2 computers through the serial port | TBA   |
-| PFL    | [Crosscut](https://github.com/Tonevanda/PFL-Crosscut)     | Prolog    | Abstract board game using SICStus Prolog                 | TBA   |
+| RCOM   | [NetFetch](https://github.com/Tonevanda/RCOM/tree/main/proj2)   | C   | File downloader using the TCP and FTP protocol           | TBA |
+| PFL    | [HaskellASM](https://github.com/Tonevanda/PFL-Haskell)    | Haskell   | Assembly interpreter and compiler using Haskell          | TBA |
+| RCOM   | [SerialSync](https://github.com/Tonevanda/RCOM/tree/main/proj1) | C   | File transfer between 2 computers through the serial port | TBA |
+| PFL    | [Crosscut](https://github.com/Tonevanda/PFL-Crosscut)     | Prolog    | Abstract board game using SICStus Prolog                 | 18.10 |
 | LCOM   | [Battleships](https://github.com/Tonevanda/LCOM/tree/main/proj) | C   | Battleship game using the MINIX subsystem drivers         | 17.89 |
 | LTW    | [Lippu](https://github.com/Tonevanda/Lippu)               | PHP, JS, HTML, CSS | Ticketing system website                           | 17.1  |
 | DA     | [TSPNavigator++](https://github.com/Tonevanda/DA-Shipping)| C++      | Development of heuristics to approximate optimal TSP paths for shipping company | 15.98 |
