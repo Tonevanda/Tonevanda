@@ -28,11 +28,11 @@ I love listening to all kinds of music. If you're curious, check out my [RYM](ht
 | RCOM   | [SerialSync](https://github.com/Tonevanda/RCOM/tree/main/proj1) | C   | File transfer between 2 computers through the serial port | TBA |
 | PFL    | [Crosscut](https://github.com/Tonevanda/PFL-Crosscut)     | Prolog    | Abstract board game using SICStus Prolog                 | 18.10 |
 | LCOM   | [Battleships](https://github.com/Tonevanda/LCOM/tree/main/proj) | C   | Battleship game using the MINIX subsystem drivers         | 17.89 |
-| LTW    | [Lippu](https://github.com/Tonevanda/Lippu)               | PHP, JS, HTML, CSS | Ticketing system website                           | 17.1  |
+| LTW    | [Lippu](https://github.com/Tonevanda/Lippu)               | PHP, JS, HTML, CSS | Ticketing system website                           | 17.10 |
 | DA     | [TSPNavigator++](https://github.com/Tonevanda/DA-Shipping)| C++      | Development of heuristics to approximate optimal TSP paths for shipping company | 15.98 |
 | DA     | [RailOptiC](https://github.com/Tonevanda/DA-Railway)      | C++       | Optimization of a railway system                          | 17.33 |
 | SO     | [TokenX](https://github.com/Tonevanda/SO)                 | C         | Multi-process token control with optional synchronization and lock periods | 18.33 |
-| LDTS   | [BloonsTD](https://github.com/Tonevanda/BloonsTD)         | Java      | Recreation of the first BloonsTD game using Java's Lanterna| 16.3  |
+| LDTS   | [BloonsTD](https://github.com/Tonevanda/BloonsTD)         | Java      | Recreation of the first BloonsTD game using Java's Lanterna| 16.30 |
 | AED    | [SkyControl](https://github.com/Tonevanda/AED-Airline)    | C++       | System Management for global airways                      | 16.16 |
 | AED    | [Harmonogram](https://github.com/Tonevanda/AED-Schedules) | C++       | System Management for students' schedules                 | 18.38 |
 
