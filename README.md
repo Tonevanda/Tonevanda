@@ -23,6 +23,7 @@ I love listening to all kinds of music. If you're curious, check out my [RYM](ht
 
 | Class  | Name                                                      | Language  | Description                                              | Grade |
 |--------|-----------------------------------------------------------|-----------|----------------------------------------------------------|-------|
+| LBAW   | [Bibliophile's Bliss](https://github.com/Tonevanda/LBAW)   | Laravel   | Low-price online bookshop          | TBA |
 | RCOM   | [NetFetch](https://github.com/Tonevanda/RCOM/tree/main/proj2)   | C   | File downloader using the TCP and FTP protocols           | TBA |
 | PFL    | [HaskellASM](https://github.com/Tonevanda/PFL-Haskell)    | Haskell   | Assembly interpreter and compiler using Haskell          | TBA |
 | RCOM   | [SerialSync](https://github.com/Tonevanda/RCOM/tree/main/proj1) | C   | File transfer between 2 computers through the serial port | TBA |
