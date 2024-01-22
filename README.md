@@ -24,7 +24,7 @@ I love listening to all kinds of music. If you're curious, check out my [RYM](ht
 | Class  | Name                                                      | Language  | Description                                              | Grade |
 |--------|-----------------------------------------------------------|-----------|----------------------------------------------------------|-------|
 | RCOM   | [NetFetch](https://github.com/Tonevanda/RCOM/tree/main/proj2)   | C   | File downloader using the TCP and FTP protocols           | 16.70 |
-| PFL    | [HaskellASM](https://github.com/Tonevanda/PFL-Haskell)    | Haskell   | Assembly interpreter and compiler using Haskell          | TBA |
+| PFL    | [HaskellASM](https://github.com/Tonevanda/PFL-Haskell)    | Haskell   | Assembly interpreter and compiler using Haskell          | 17.67 |
 | RCOM   | [SerialSync](https://github.com/Tonevanda/RCOM/tree/main/proj1) | C   | File transfer between 2 computers through the serial port | 18.90 |
 | PFL    | [Crosscut](https://github.com/Tonevanda/PFL-Crosscut)     | Prolog    | Abstract board game using SICStus Prolog                 | 18.10 |
 | LCOM   | [Battleships](https://github.com/Tonevanda/LCOM/tree/main/proj) | C   | Battleship game using the MINIX subsystem drivers         | 17.89 |
