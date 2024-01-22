@@ -21,7 +21,7 @@ I love listening to all kinds of music. If you're curious, check out my [RYM](ht
   
 ## University Projects
 
-| Class  | Name                                                      | Language  | Description                                              | Grade |
+| Class  | Name                                                      | Language  | Description                                              | Grade/20 |
 |--------|-----------------------------------------------------------|-----------|----------------------------------------------------------|-------|
 | RCOM   | [NetFetch](https://github.com/Tonevanda/RCOM/tree/main/proj2)   | C   | File downloader using the TCP and FTP protocols           | 16.70 |
 | PFL    | [HaskellASM](https://github.com/Tonevanda/PFL-Haskell)    | Haskell   | Assembly interpreter and compiler using Haskell          | 17.67 |
