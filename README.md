@@ -23,16 +23,16 @@ I love listening to all kinds of music. If you're curious, check out my [RYM](ht
 
 | Class  | Name                                                      | Language  | Description                                              | Grade/20 |
 |--------|-----------------------------------------------------------|-----------|----------------------------------------------------------|-------|
-| RCOM   | [NetFetch](https://github.com/Tonevanda/RCOM/tree/main/proj2)   | C   | File downloader using the TCP and FTP protocols           | 16.70 |
-| PFL    | [HaskellASM](https://github.com/Tonevanda/PFL-Haskell)    | Haskell   | Assembly interpreter and compiler using Haskell          | 17.67 |
-| RCOM   | [SerialSync](https://github.com/Tonevanda/RCOM/tree/main/proj1) | C   | File transfer between 2 computers through the serial port | 18.90 |
-| PFL    | [Crosscut](https://github.com/Tonevanda/PFL-Crosscut)     | Prolog    | Abstract board game using SICStus Prolog                 | 18.10 |
-| LCOM   | [Battleships](https://github.com/Tonevanda/LCOM/tree/main/proj) | C   | Battleship game using the MINIX subsystem drivers         | 17.89 |
-| LTW    | [Lippu](https://github.com/Tonevanda/Lippu)               | PHP, JS, HTML, CSS | Ticketing system website                           | 17.10 |
-| DA     | [RailOptiC](https://github.com/Tonevanda/DA-Railway)      | C++       | Optimization of a railway system                          | 17.33 |
-| SO     | [TokenX](https://github.com/Tonevanda/SO)                 | C         | Multi-process token control with optional synchronization and lock periods | 18.33 |
-| LDTS   | [BloonsTD](https://github.com/Tonevanda/BloonsTD)         | Java      | Recreation of the first BloonsTD game using Java's Lanterna| 16.30 |
-| AED    | [SkyControl](https://github.com/Tonevanda/AED-Airline)    | C++       | System Management for global airways                      | 16.16 |
-| AED    | [Harmonogram](https://github.com/Tonevanda/AED-Schedules) | C++       | System Management for students' schedules                 | 18.38 |
+| RCOM   | [NetFetch](https://github.com/Tonevanda/RCOM/tree/main/proj2)   | C   | File downloader using the TCP and FTP protocols           | 16.7 |
+| PFL    | [HaskellASM](https://github.com/Tonevanda/PFL-Haskell)    | Haskell   | Assembly interpreter and compiler using Haskell          | 17.7 |
+| RCOM   | [SerialSync](https://github.com/Tonevanda/RCOM/tree/main/proj1) | C   | File transfer between 2 computers through the serial port | 18.9 |
+| PFL    | [Crosscut](https://github.com/Tonevanda/PFL-Crosscut)     | Prolog    | Abstract board game using SICStus Prolog                 | 18.1 |
+| LCOM   | [Battleships](https://github.com/Tonevanda/LCOM/tree/main/proj) | C   | Battleship game using the MINIX subsystem drivers         | 17.9 |
+| LTW    | [Lippu](https://github.com/Tonevanda/Lippu)               | PHP, JS, HTML, CSS | Ticketing system website                           | 17.1 |
+| DA     | [RailOptiC](https://github.com/Tonevanda/DA-Railway)      | C++       | Optimization of a railway system                          | 17.4 |
+| SO     | [TokenX](https://github.com/Tonevanda/SO)                 | C         | Multi-process token control with optional synchronization and lock periods | 18.4 |
+| LDTS   | [BloonsTD](https://github.com/Tonevanda/BloonsTD)         | Java      | Recreation of the first BloonsTD game using Java's Lanterna| 16.3 |
+| AED    | [SkyControl](https://github.com/Tonevanda/AED-Airline)    | C++       | System Management for global airways                      | 16.2 |
+| AED    | [Harmonogram](https://github.com/Tonevanda/AED-Schedules) | C++       | System Management for students' schedules                 | 18.4 |
 
 </div>
