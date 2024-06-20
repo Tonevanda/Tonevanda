@@ -26,6 +26,7 @@ I love listening to all kinds of music. If you're curious, check out my [RYM](ht
 | AI     | [League of Legends Match Prediction](https://github.com/Tonevanda/IA/tree/main/proj2) | Python | Prediction of League of Legends matches using several AI models | 20.0 |
 | COMP   | [Java-- Compiler](https://github.com/Tonevanda/Compilers/tree/master/proj) | Java | Compiler for a subset language of Java called Java--  | 20.0 |
 | CG     | [BeeWorld](https://github.com/Tonevanda/Graphical-Computing/tree/master/proj/project) | JavaScript | Modeling of a small space using WebGL| 18.5 |
+| CPD    | [SpireOnline](https://github.com/Tonevanda/CPD/tree/main/proj2) | Java   | ASCII multiplayer game                                         | 18.8 |
 | AI     | [Focus](https://github.com/Tonevanda/IA/tree/main/proj1)        | Python | Focus board game with several bot difficulty settings          | 19.5 |
 | RCOM   | [NetFetch](https://github.com/Tonevanda/RCOM/tree/main/proj2)   | C   | File downloader using the TCP and FTP protocols                   | 16.7 |
 | PFL    | [HaskellASM](https://github.com/Tonevanda/PFL-Haskell)    | Haskell   | Assembly interpreter and compiler using Haskell                   | 17.7 |
