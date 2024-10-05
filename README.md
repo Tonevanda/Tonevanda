@@ -6,7 +6,7 @@
 
 </div>
 
-I am a 20-year-old Portuguese guy who loves to code.
+I am a 21-year-old Portuguese guy who loves to code.
 
 I'm currently studying computer science @ [FEUP](https://github.com/FEUP).
 
