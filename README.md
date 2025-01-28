@@ -36,7 +36,7 @@ I love listening to all kinds of music. If you're curious, check out my [RYM](ht
 | LTW    | [Lippu](https://github.com/Tonevanda/Lippu)               | PHP, JS, HTML, CSS | Ticketing system website                                 | 17.1 |
 | DA     | [RailOptiC](https://github.com/Tonevanda/DA-Railway)      | C++       | Optimization of a railway system                                  | 17.4 |
 | SO     | [TokenX](https://github.com/Tonevanda/SO)                 | C         | Multi-process token control with optional synchronization and lock periods | 18.4 |
-| LDTS   | [BloonsTD](https://github.com/Tonevanda/BloonsTD)         | Java      | Recreation of the first BloonsTD game using Java's Lanterna       | 16.3 |
+| PRI   | [OPSearch](https://github.com/Tonevanda/PRI)         | ReactJS, Python      | Search Engine for the One Piece Anime       | 17.5 |
 | AED    | [Harmonogram](https://github.com/Tonevanda/AED-Schedules) | C++       | System Management for students' schedules                         | 18.4 |
 
 </div>
