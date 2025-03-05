@@ -40,4 +40,8 @@ I love listening to all kinds of music. If you're curious, check out my [RYM](ht
 | PRI   | [OPSearch](https://github.com/Tonevanda/PRI)         | ReactJS, Python      | Search Engine for the One Piece Anime       | 17.5 |
 | AED    | [Harmonogram](https://github.com/Tonevanda/AED-Schedules) | C++       | System Management for students' schedules                         | 18.4 |
 
+## What I've been listening to
+
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Tonevanda)
+
 </div>
