@@ -14,7 +14,7 @@ I love listening to all kinds of music. If you're curious, check out my [RYM](ht
 
 <div align="center">
   <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonevanda&layout=compact&langs_count=6&theme=radical">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tonevanda&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tonevanda&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide=issues&rank_icon=github"/>
 </div>
 
 <div align="center">
