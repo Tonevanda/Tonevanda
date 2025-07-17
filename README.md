@@ -13,7 +13,6 @@ I'm currently studying computer science @ [FEUP](https://github.com/FEUP).
 I love listening to all kinds of music. If you're curious, check out my [RYM](https://rateyourmusic.com/~Tonevanda) :guitar:
 
 <div align="center">
-  <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonevanda&layout=compact&langs_count=6&theme=radical">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tonevanda&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide=issues&rank_icon=github"/>
 </div>
 
